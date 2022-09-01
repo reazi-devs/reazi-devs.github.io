@@ -1,12 +1,13 @@
 body {
     text-align: center;
     margin: 0px;
-    font-family: "Courier New";
 }
 
 div {
+    f
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Courier New";
     padding: 0px;
 }
