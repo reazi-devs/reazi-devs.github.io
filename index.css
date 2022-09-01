@@ -4,10 +4,9 @@ body {
 }
 
 div {
-    f
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: "Courier New";
+    font-family: "Courier New", serif;
     padding: 0px;
 }
