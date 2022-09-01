@@ -1,10 +1,6 @@
 body {
-    text-align: center;
-    margin: 0px;
-}
-
-div {
     display: flex;
+    font-size: 14px;
     justify-content: center;
     align-items: center;
     font-family: "Courier New", serif;
