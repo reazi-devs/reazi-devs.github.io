@@ -1,15 +1,12 @@
 body {
     text-align: center;
     margin: 0px;
-    font-family: "Comic Sans MS";
+    font-family: "Courier New";
 }
 
-.about {
-    background-color: yellow;
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 0px;
-}
-
-.projects {
-    background-color: yellow;
-    padding: 10px;
 }
